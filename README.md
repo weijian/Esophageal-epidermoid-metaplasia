@@ -157,13 +157,13 @@ o	注：TP53突变阳性者应始终采用更密集的监测频率。
 3.	诊断核心：显著颗粒层和表面正角化是病理诊断的基石。
 4.	管理策略：单纯EEM需密切监测，伴发上皮内瘤变者应行内镜切除，TP53突变可作为激进治疗的参考依据。
 未来的临床实践应强调基于组织学特征的准确诊断、基于分子病理的分层管理，以及内镜与病理的紧密协作。基于此，方能实现对这一特殊癌前病变的精准防控，最终降低食管鳞癌的发病率和死亡率。
-**致谢**
+## 致谢
 本综述基于1997年至2026年的关键文献撰写，特别感谢Nakanishi、Singhi、Kamboj等研究团队的开创性工作，为EEM的认识奠定了坚实基础。同时感谢WHO专家组将EEM纳入第六版分类，为临床实践提供了国际标准。
-**利益冲突声明**
+## 利益冲突声明
 作者声明无利益冲突。
-**作者贡献**
+## 作者贡献
 本文为单一作者独立撰写的综述性文章，负责文献检索、数据分析及执笔撰写。
-**参考文献** 
+## 参考文献
 1.	Esophageal Leukoplakia or Epidermoid Metaplasia: A Clinicopathological Study of 18 Patients. Singhi AD, Arnold CA, Crowder CD, et al. Modern Pathology. 2014;27(1):38-43. doi:10.1038/modpathol.2013.100.
 2.	Epidermization in the Esophageal Mucosa: Unusual Epithelial Changes Clearly Detected by Lugol's Staining. Nakanishi Y, Ochiai A, Shimoda T, et al. The American Journal of Surgical Pathology. 1997;21(5):605-9. doi:10.1097/00000478-199705000-00015.
 3.	Targeted Next-Generation Sequencing Supports Epidermoid Metaplasia of the Esophagus as a Precursor to Esophageal Squamous Neoplasia. Singhi AD, Arnold CA, Lam-Himlin DM, et al. Modern Pathology. 2017;30(11):1613-1621. doi:10.1038/modpathol.2017.73.
